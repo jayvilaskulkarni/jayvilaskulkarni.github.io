@@ -1,20 +1,30 @@
 project:
   type: website
   output-dir: docs
-
+  
 website:
-  title: "jayvilaskulkarni.github.io"
+  site-url: https://jaykulkarni.github.io/
+  title: "Jay Kulkarni"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-
+      - text: "About"
+        href: about.qmd
+      - text: "CV"
+        href: MISC/KulkarniCVOct2023.pdf
+      - blog.qmd
+  page-footer: 
+    left: Copyright 2023, Jay Kulkarni
+              
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: cosmo
+      dark: superhero
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 

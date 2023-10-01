@@ -2,8 +2,28 @@
 title: "About"
 ---
 
-About this site
+## Education:
 
-```{r}
-1 + 1
-```
+### Bocconi University
+
+I am presently in the second year of the MSc program.
+
+### Azim Premji University
+
+### Rishi Valley School
+
+## Work Experience:
+
+### LEAP, Bocconi University
+
+I worked as a research assistant to [Professor Andrea Guariso](https://www.andreaguariso.net/home) at the Laboratory for Effective Anti-Poverty Policies (LEAP) over the summer of 2023. I was selected in the [LEAP Internship Program](https://leap.unibocconi.eu/vacancies/internship-program). A new skill I learnt was to do 'fuzzy matching' of data in Stata. I further used the ['LEDA' package](https://github.com/carl-mc/LEDA) in R, which was specifically designed to match ethnic data-sets in Africa (relevant for the project). Using the LEDA package made me understand the basics of Object Oriented Programming. I also learnt QGIS to handle spatial data and attended workshops on research methods for development economics.
+
+### XKDR Forum
+
+I am presently collaborating with [XKDR Forum](https://xkdr.org/) (Mumbai) as a quantitative researcher. I have been involved in a project on measuring the effect of finance on household consumption management. We are using longitudinal micro-data from India for the project. I regularly visualize data and run regressions using R for the project. At XKDR, I have learnt to document my work systematically and to create functions from scratch in R. Working here has motivated me to learn more about open-source systems and to master the command line (great for productivity!), which is used de-facto at the organization.
+
+### Centre for Sustaiable Employment
+
+I worked as a research assistant to Professors Amit Basole and Anand Shrivastava at CSE (Bengaluru). ️
+
+### Seva Mandir
