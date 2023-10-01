@@ -1,7 +1,7 @@
 ---
 title: "Jay Kulkarni"
 about:
-  image: MISC/photo_jay.jpg
+  image: misc/profile-pic.jpg
   id: hero-heading
   template: trestles
   image-shape: round

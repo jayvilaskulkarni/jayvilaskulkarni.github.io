@@ -12,7 +12,7 @@ website:
       - text: "About"
         href: about.qmd
       - text: "CV"
-        href: MISC/KulkarniCVOct2023.pdf
+        href: misc/kulkarni-cv-oct2023.pdf
       - blog.qmd
   page-footer: 
     left: Copyright 2023, Jay Kulkarni
