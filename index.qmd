@@ -21,4 +21,4 @@ about:
 
 I study economics at Bocconi University, Milan (MSc in Economic and Social Sciences), where I am also an ICRIOS Visiting Student.
 
-I cherish data-driven insights, and take interest in empirical economic research. Applied econometrics and Macroeconomic development are my areas of interest. I am also passionate about data visualization. Nice graphs have the power to make compelling narratives.
+I cherish data-driven insights, and take interest in empirical economic research. Applied econometrics and Macroeconomic development are my areas of interest. I am also passionate about data visualization.
