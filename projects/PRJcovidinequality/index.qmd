@@ -1,0 +1,27 @@
+---
+title: "Did Inequality Fall or Rise During the COVID-19 Lockdown?"
+author: 
+  - Jay Kulkarni
+date: "2023-01-13"
+categories: [Inequality, Income, COVID-19, India, Data Visualization]
+description: "Poster presentation of the project where I contributed as a research assistant (Centre for Sustainable Employment, Bengaluru)."
+image: preview.png
+---
+
+This work was presented at the *Annual Research Conclave (2023)* at Azim Premji University, Bengaluru. As a research assistant, I helped with documentation, data visualization, and with executing the regression analysis for the project.[^1]
+
+[^1]: This is unpublished work, only uploaded here to give the reader a better sense of my experience as a research assistant during this stint.
+
+```{=html}
+<!DOCTYPE html>
+<html>
+  
+  </head>
+  <body>
+    
+    <object data="BasoleKulkarniShrivastavaAPU2022RC.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="BasoleKulkarniShrivastavaAPU2022RC.pdf">Download</a> instead.</p>
+    </object>
+  </body>
+</html>
+```

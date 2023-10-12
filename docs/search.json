@@ -18,7 +18,7 @@
     "href": "about.html#work-experience",
     "title": "About",
     "section": "Work Experience:",
-    "text": "Work Experience:\n\nLEAP, Bocconi University\nI worked as a research assistant to Professor Andrea Guariso at the Laboratory for Effective Anti-Poverty Policies (LEAP) over the summer of 2023. I was selected in the LEAP Internship Program. A new skill I learnt was to do ‘fuzzy matching’ of data in Stata. I further used the ‘LEDA’ package in R, which was specifically designed to match ethnic data-sets in Africa (relevant for the project). Using the LEDA package made me understand the basics of Object Oriented Programming. I also learnt QGIS to handle spatial data and attended workshops on research methods for development economics.\n\n\nXKDR Forum\nI am presently collaborating with XKDR Forum (Mumbai) as a quantitative researcher. I have been involved in a project on measuring the effect of finance on household consumption management. We are using longitudinal micro-data from India for the project. I regularly visualize data and run regressions using R for the project. At XKDR, I have learnt to document my work systematically and to create functions from scratch in R. Working here has motivated me to learn more about open-source systems and to master the command line (great for productivity!), which is used de-facto at the organization.\n\n\nCentre for Sustaiable Employment\nI worked as a research assistant to Professors Anand Shrivastava and Amit Basole at the Centre for Sustainable Employment (CSE) (Bengaluru). I worked on a project on income-inequality during the pandemic. Contrary to the existing literature, we found preliminary evidence that income-inequality did not drop during the COVID-19 period, and established a pre-trend of already falling income-inequality in India. During my stint at CSE, ️I mainly did exploratory data analysis using R on AWS. After regular presentations and rigorous verifications, we narrowed down on a narrative. This work was presented at the Annual Research Conclave (2022) at Azim Premji University.\n\n\nSeva Mandir\nI worked as a research intern at Seva Mandir (Udaipur) in the summer of 2021. I was tasked to evaluate the effectiveness of one of Seva Mandir’s Water, Sanitation and Hygiene (WASH) intervention. I successfully conducted a primary survey (n=50 households) and submitted a report of my findings to the organization. I learnt to design a coherent questionnaire with inputs from my pilot run. I executed the survey with help from a balsakhi, who was trusted by the respondents and helped with language translation. This field experience helped me connect development theory with ground realities and was full of political economy insights."
+    "text": "Work Experience:\n\nLEAP, Bocconi University\nI worked as a research assistant to Professor Andrea Guariso at the Laboratory for Effective Anti-Poverty Policies (LEAP) over the summer of 2023. I was selected in the LEAP Internship Program. A new skill I learnt was to do ‘fuzzy matching’ of data in Stata. I further used the ‘LEDA’ package in R, which was specifically designed to match ethnic data-sets in Africa (relevant for the project). Using the LEDA package made me understand the basics of Object Oriented Programming. I also learnt QGIS to handle spatial data and attended workshops on research methods for development economics.\n\n\nXKDR Forum\nI am presently collaborating with XKDR Forum (Mumbai) as a quantitative researcher. I have been involved in a project on measuring the effect of finance on household consumption management. We are using longitudinal micro-data from India for the project. I regularly visualize data and run regressions using R for the project. At XKDR, I have learnt to document my work systematically and to create functions from scratch in R. Working here has motivated me to learn more about open-source systems and to master the command line (great for productivity!), which is used de-facto at the organization.\n\n\nCentre for Sustaiable Employment\nI worked as a research assistant to Professors Anand Shrivastava and Amit Basole at the Centre for Sustainable Employment (CSE) (Bengaluru). I worked on a project on income-inequality during the pandemic. Contrary to the existing literature, we found preliminary evidence that income-inequality did not drop during the COVID-19 period, and established a pre-trend of already falling income-inequality in India. During my stint at CSE, ️I mainly did exploratory data analysis using R on AWS. After regular presentations and rigorous verifications, we narrowed down on a narrative. This work was presented at the Annual Research Conclave (2023) at Azim Premji University. See ‘Projects’ page for details.\n\n\nSeva Mandir\nI worked as a research intern at Seva Mandir (Udaipur) in the summer of 2021. I was tasked to evaluate the effectiveness of one of Seva Mandir’s Water, Sanitation and Hygiene (WASH) intervention. I successfully conducted a primary survey (n=50 households) and submitted a report of my findings to the organization. I learnt to design a coherent questionnaire with inputs from my pilot run. I executed the survey with help from a balsakhi, who was trusted by the respondents and helped with language translation. This field experience helped me connect development theory with ground realities and was full of political economy insights."
   },
   {
     "objectID": "blog/Bl20230930diary/index.html",
@@ -47,5 +47,33 @@
     "title": "Jay Kulkarni",
     "section": "",
     "text": "I study economics at Bocconi University, Milan (MSc in Economic and Social Sciences), where I am also an ICRIOS Visiting Student.\nI cherish data-driven insights, and take interest in empirical economic research. Applied econometrics and Macroeconomic development are my areas of interest. I am also passionate about data visualization."
+  },
+  {
+    "objectID": "projects/PRJcovidinequality/index.html",
+    "href": "projects/PRJcovidinequality/index.html",
+    "title": "Did Inequality Fall or Rise During the COVID-19 Lockdown?",
+    "section": "",
+    "text": "This work was presented at the Annual Research Conclave (2023) at Azim Premji University, Bengaluru. As a research assistant, I helped with documentation, data visualization, and with executing the regression analysis for the project.1"
+  },
+  {
+    "objectID": "projects/PRJcovidinequality/index.html#footnotes",
+    "href": "projects/PRJcovidinequality/index.html#footnotes",
+    "title": "Did Inequality Fall or Rise During the COVID-19 Lockdown?",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is unpublished work, only uploaded here to give the reader a better sense of my experience as a research assistant during this stint.↩︎"
+  },
+  {
+    "objectID": "projects/PRJugthesis/index.html",
+    "href": "projects/PRJugthesis/index.html",
+    "title": "Undergraduate Thesis",
+    "section": "",
+    "text": "You can access my undergraduate thesis manuscript and my presentation to defend my thesis on this page.\n\nThesis\n\n\n  \n  \n  \n    \n    \n      Unable to display PDF file. Download instead.\n    \n  \n\n\n\nPresentation\n\n\n  \n  \n  \n    \n    \n      Unable to display PDF file. Download instead."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Did Inequality Fall or Rise During the COVID-19 Lockdown?\n\n\n\n\n\n\n\nInequality\n\n\nIncome\n\n\nCOVID-19\n\n\nIndia\n\n\nData Visualization\n\n\n\n\nPoster presentation of the project where I contributed as a research assistant (Centre for Sustainable Employment, Bengaluru).\n\n\n\n\n\n\nJan 13, 2023\n\n\nJay Kulkarni\n\n\n\n\n\n\n  \n\n\n\n\nUndergraduate Thesis\n\n\nIndia’s Pandemic Through the Lens of Consumption Expenditure- Capturing Welfare Effects\n\n\n\n\nConsumption\n\n\nCOVID-19\n\n\nWelfare\n\n\nIndia\n\n\n\n\nThis thesis uses the CMIE-CPHS to capture the welfare effects of the pandemic on consumption expenditure. It finds that poverty spiked around lockdown one, but reverted to its pre-pandemic levels in the months that followed. It contributes to the literature by establishing that the drop in discretionary spending, that is dominated by richer quantiles drove the higher drop in overall MPCE for the rich.\n\n\n\n\n\n\nMay 7, 2022\n\n\nJay Kulkarni\n\n\n\n\n\n\nNo matching items"
   }
 ]

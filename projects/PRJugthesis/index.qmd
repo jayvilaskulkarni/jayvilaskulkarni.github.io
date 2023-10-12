@@ -1,0 +1,44 @@
+---
+title: "Undergraduate Thesis"
+subtitle: "India’s Pandemic Through the Lens of
+Consumption Expenditure- Capturing Welfare Effects"
+author: 
+  - Jay Kulkarni
+date: "2022-05-07"
+categories: [Consumption, COVID-19, Welfare, India]
+description: "This thesis uses the CMIE-CPHS to capture the welfare effects of the pandemic on consumption expenditure. It finds that poverty spiked around lockdown one, but reverted to its pre-pandemic levels in the months that followed. It contributes to the literature by establishing that the drop in discretionary spending, that is dominated by richer quantiles drove the higher drop in overall MPCE for the rich."
+image: previewmerged.png
+---
+
+*You can access my undergraduate thesis manuscript and my presentation to defend my thesis on this page.*
+
+### Thesis
+
+```{=html}
+<!DOCTYPE html>
+<html>
+  
+  </head>
+  <body>
+    
+    <object data="doc-ug-thesis.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="doc-ug-thesis.pdf">Download</a> instead.</p>
+    </object>
+  </body>
+</html>
+```
+### Presentation
+
+```{=html}
+<!DOCTYPE html>
+<html>
+  
+  </head>
+  <body>
+    
+    <object data="slides-ug-thesis.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="slides-ug-thesis.pdf">Download</a> instead.</p>
+    </object>
+  </body>
+</html>
+```
