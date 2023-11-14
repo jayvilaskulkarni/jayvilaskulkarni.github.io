@@ -32,3 +32,9 @@ The mechanized sounds could be heard even before we entered the buildings. This 
 There was a large hall with much smaller machines that were being operated by women and children! No disrespect for the English society, but women working beside men, under the same roof is bizarre. These workers must be in dire states to make the women of their house work in such conditions. Further, the work done by the men was not dignified either. The poor artisan of Rakshali would rather starve, than do undignified, mechanical work to earn a living...
 
 Perched in my chair after a comfortable supper, I can only remark that today was rather eventful. I am eager, yet reserved to know what Mr. Chillingworth's coal mines have in place for me tomorrow. That would be all for now.
+
+```{=html}
+<p style="font-family: arial, serif; font-size:10pt; font-style:italic">
+Note: I originally wrote this piece for the course 'Survey of World Economic History' at Azim Premji University.
+</p>
+```
