@@ -6,7 +6,7 @@ title: "About"
 
 ### Bocconi University
 
-I am presently a second year student pursuing the [MSc in Economic and Social Sciences](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/economic+and+social+sciences/) at Bocconi University. I am selected in the [ICRIOS](https://icrios.unibocconi.eu/) Visiting Students Program (2023-2024), where we are mentored and trained in empirical research methods. Besides learning advanced economic theory and rigorous statistical methods, I have also learnt to make forecasts in EViews and project management using MS Project. I also took a [course in Stata](https://openbadges.bestr.it/public/assertions/HUZHwE1kSQmqJPKIhTK56w) which prepared me well for the internship at LEAP.
+I am presently a second year student pursuing the [MSc in Economic and Social Sciences](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/economic+and+social+sciences/) at Bocconi University. I am selected in the [ICRIOS](https://icrios.unibocconi.eu/) Visiting Students Program (2023-2024), where we are mentored and trained in empirical research methods. I have completed courses like advanced statistics, advanced mathematics, advanced macroeconomics, macroeconometrics, development economics, economic analysis of crime, population dynamics, and labour economics. My thesis with Prof. [Arnstein Aassve](https://faculty.unibocconi.eu/arnsteinaassve/) aims to examine the relationship between social networks and cognitive functioning of the elderly in Europe. The thesis will point out the heterogenities by gender, region, age, and education.
 
 ### Azim Premji University
 
@@ -24,7 +24,7 @@ I worked as a research assistant to Professor [Andrea Guariso](https://www.andre
 
 ### XKDR Forum
 
-I am presently collaborating with [XKDR Forum](https://xkdr.org/) (Mumbai) as a quantitative researcher. I have been involved in a project on measuring the effect of finance on household consumption management. We are using longitudinal micro-data from India for the project. I regularly visualize data and run regressions using R for the project. At XKDR, I have learnt to document my work systematically and to create functions from scratch in R. Working here has motivated me to learn more about open-source systems and to master the command line (great for productivity!), which is used de-facto at the organization.
+I collaborated with [XKDR Forum](https://xkdr.org/) (Mumbai) as a quantitative researcher. I was involved in a project on measuring the effect of finance on household consumption management. We used a longitudinal micro-data from India for the project. I visualized data and ran regressions using R for the project. At XKDR, I learnt to document my work systematically and to create functions from scratch in R. Working here has motivated me to learn more about open-source systems and to master the command line (great for productivity!), which is used de-facto at the organization.
 
 ### Centre for Sustaiable Employment
 
