@@ -1,16 +1,16 @@
 [
   {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/Bl20230930diary/index.html"
+    ]
+  },
+  {
     "listing": "/projects.html",
     "items": [
       "/projects/PRJcsewp58/index.html",
       "/projects/PRJcovidinequality/index.html",
       "/projects/PRJugthesis/index.html"
-    ]
-  },
-  {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/Bl20230930diary/index.html"
     ]
   }
 ]
