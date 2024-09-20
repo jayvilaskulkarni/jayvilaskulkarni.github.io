@@ -1,7 +1,7 @@
 ---
-title: "Undergraduate Thesis"
-subtitle: "India’s Pandemic Through the Lens of
+title: "India's Pandemic Through the Lens of
 Consumption Expenditure- Capturing Welfare Effects"
+subtitle: "Undergraduate Thesis"
 author: 
   - Jay Kulkarni
 date: "2022-05-07"
