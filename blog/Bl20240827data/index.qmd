@@ -1,6 +1,6 @@
 ---
 title: "e-Papyrus to Spreadsheet"
-subtitle: "A guide to web data collection using python + selenium"
+subtitle: "A guide to webscraping using python + selenium"
 author: "Jay Kulkarni"
 date: "2024-09-21"
 categories: [Data, Python, Selenium, Webscraping]
