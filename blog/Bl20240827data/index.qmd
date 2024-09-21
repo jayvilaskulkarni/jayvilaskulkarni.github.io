@@ -1,9 +1,10 @@
 ---
 title: "My Webscraping Workflow"
+subtitle: "A guide to webscraping using python + selenium"
 author: "Jay Kulkarni"
 date: "2024-09-21"
 categories: [Data, Python, Selenium, Webscraping]
-description: "I collate my learnings on webscraping in this tutorial style blog."
+description: "I collate the most useful webscraping tricks from my workflow and present it as a beginner's guide."
 draft: true
 #bibliography: references.bib
 #nocite:
@@ -13,11 +14,11 @@ draft: true
 
 ### Surge in New Data Sources
 
-Modern statistics used in research isn't much different than what it was seventy years ago. Richer sources of data and exponentially better computational power, however, have changed the way we do research. Typical data used in social science research comes from official sources. In developing countries like India, the official data is often released with delays or is not measured at all. Private data firms have started filling this gap by providing richer and high-frequency data. In both these cases, the data is **structured**- documentation on survey design, weighting, and variable description is available. The researcher has to simply download and clean this data to find insights.
+Modern statistics used in research isn't much different than what it was seventy years ago. Richer sources of data and exponentially better computational power, however, have changed the way we do research. Typical data used in social science research comes from official sources. In developing countries like India, the official data is often released with delays or is not measured at all. Private data firms have started filling this gap by providing richer and high-frequency data. In both cases, the data is **structured**- documentation on survey design, weighting, and variable description is available. The researcher has to simply download and clean this data to find insights.
 
 Some interesting **non-traditional** data sources have become feasible for research. Improved optical character recognition (OCR) softwares have made it easier to digitize historic physical records and convert them into modern spreadsheets. Usage of open-access granular satellite data has become popular because individual persons or governments cannot tamper with data collection, and it is collected at high frequencies.
 
-Then there is **unstructured** data. Think of product reviews on Amazon's website. The website can process the unformatted text from several reviews and generate a summary of sentiments and most relevant phrases. Political analysts and marketing folks use similar unstructured text data from social media platforms to analyse user sentiments on the topic of interest. Further, there is **semi-structured** data. This is data spread over several html pages of a websites. There is a pattern in which each html page of this website stores information, but it can't be downloaded directly (no API access either). You will then use webscraping techniques to create a structured spreadsheet out of this website's content. The webscraping process is the topic of this blog.
+Then there is **unstructured** data. Think of product reviews on Amazon's website. The website can process unformatted text from several reviews and generate a summary of sentiments and most relevant phrases. Political analysts and marketing folks use similar unstructured text data from social media platforms to analyse user sentiments on the topic of interest. Further, there is **semi-structured** data. This is data spread over several pages of a website. There is a pattern in which each page of this website stores information, but it can't be downloaded directly (no API access either). You will then use webscraping techniques to create a structured spreadsheet out of this website's content. The webscraping process is the topic of this blog.
 
 ### Choice of tools: Python with Selenium
 
@@ -153,7 +154,7 @@ The output will look as follows:
     -   Sometimes one element can be accessed by different xpaths. If the first xpath doesn't fetch the desired element for you, the subsequent xpaths will! And you will notice the need to add that second xpath only when you are printing and examining the urls where your code is raising an exception (and continuing).
 -   Adding an implicit/explicit wait condition:
     -   Sometimes an exception error is raised simply because the page had not loaded and the code tried to extract the element. A wait condition solves this issue.
-    -   You don't want to overload the server with requests. They are designed to deal with human speeds of webpage interaction. Better to put in a wait condition than to have an annoyed IT person blocking your IP address.
+    -   You don't want to overload the server with requests. They are designed to deal with human speeds of webpage interaction. It's better to put in a wait condition than have an annoyed IT person blocking your IP address.
 
 ### Clicking buttons and Sending text inputs
 

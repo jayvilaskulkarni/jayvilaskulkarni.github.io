@@ -8,7 +8,7 @@
 
 <meta name="author" content="Jay Kulkarni">
 <meta name="dcterms.date" content="2024-09-21">
-<meta name="description" content="I collate my learnings on webscraping in this tutorial style blog.">
+<meta name="description" content="I collate the most useful webscraping tricks from my workflow and present it as a beginner’s guide.">
 
 <title>Jay Kulkarni - My Webscraping Workflow</title>
 <style>
@@ -181,6 +181,7 @@ gtag('config', 'G-NP0W4XHLFG', { 'anonymize_ip': true});
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">My Webscraping Workflow</h1>
+<p class="subtitle lead">A guide to webscraping using python + selenium</p>
   <div class="quarto-categories">
     <div class="quarto-category">Data</div>
     <div class="quarto-category">Python</div>
@@ -191,7 +192,7 @@ gtag('config', 'G-NP0W4XHLFG', { 'anonymize_ip': true});
 
 <div>
   <div class="description">
-    I collate my learnings on webscraping in this tutorial style blog.
+    I collate the most useful webscraping tricks from my workflow and present it as a beginner’s guide.
   </div>
 </div>
 
@@ -220,9 +221,9 @@ gtag('config', 'G-NP0W4XHLFG', { 'anonymize_ip': true});
 
 <section id="surge-in-new-data-sources" class="level3">
 <h3 class="anchored" data-anchor-id="surge-in-new-data-sources">Surge in New Data Sources</h3>
-<p>Modern statistics used in research isn’t much different than what it was seventy years ago. Richer sources of data and exponentially better computational power, however, have changed the way we do research. Typical data used in social science research comes from official sources. In developing countries like India, the official data is often released with delays or is not measured at all. Private data firms have started filling this gap by providing richer and high-frequency data. In both these cases, the data is <strong>structured</strong>- documentation on survey design, weighting, and variable description is available. The researcher has to simply download and clean this data to find insights.</p>
+<p>Modern statistics used in research isn’t much different than what it was seventy years ago. Richer sources of data and exponentially better computational power, however, have changed the way we do research. Typical data used in social science research comes from official sources. In developing countries like India, the official data is often released with delays or is not measured at all. Private data firms have started filling this gap by providing richer and high-frequency data. In both cases, the data is <strong>structured</strong>- documentation on survey design, weighting, and variable description is available. The researcher has to simply download and clean this data to find insights.</p>
 <p>Some interesting <strong>non-traditional</strong> data sources have become feasible for research. Improved optical character recognition (OCR) softwares have made it easier to digitize historic physical records and convert them into modern spreadsheets. Usage of open-access granular satellite data has become popular because individual persons or governments cannot tamper with data collection, and it is collected at high frequencies.</p>
-<p>Then there is <strong>unstructured</strong> data. Think of product reviews on Amazon’s website. The website can process the unformatted text from several reviews and generate a summary of sentiments and most relevant phrases. Political analysts and marketing folks use similar unstructured text data from social media platforms to analyse user sentiments on the topic of interest. Further, there is <strong>semi-structured</strong> data. This is data spread over several html pages of a websites. There is a pattern in which each html page of this website stores information, but it can’t be downloaded directly (no API access either). You will then use webscraping techniques to create a structured spreadsheet out of this website’s content. The webscraping process is the topic of this blog.</p>
+<p>Then there is <strong>unstructured</strong> data. Think of product reviews on Amazon’s website. The website can process unformatted text from several reviews and generate a summary of sentiments and most relevant phrases. Political analysts and marketing folks use similar unstructured text data from social media platforms to analyse user sentiments on the topic of interest. Further, there is <strong>semi-structured</strong> data. This is data spread over several pages of a website. There is a pattern in which each page of this website stores information, but it can’t be downloaded directly (no API access either). You will then use webscraping techniques to create a structured spreadsheet out of this website’s content. The webscraping process is the topic of this blog.</p>
 </section>
 <section id="choice-of-tools-python-with-selenium" class="level3">
 <h3 class="anchored" data-anchor-id="choice-of-tools-python-with-selenium">Choice of tools: Python with Selenium</h3>
@@ -356,7 +357,7 @@ gtag('config', 'G-NP0W4XHLFG', { 'anonymize_ip': true});
 <li>Adding an implicit/explicit wait condition:
 <ul>
 <li>Sometimes an exception error is raised simply because the page had not loaded and the code tried to extract the element. A wait condition solves this issue.</li>
-<li>You don’t want to overload the server with requests. They are designed to deal with human speeds of webpage interaction. Better to put in a wait condition than to have an annoyed IT person blocking your IP address.</li>
+<li>You don’t want to overload the server with requests. They are designed to deal with human speeds of webpage interaction. It’s better to put in a wait condition than have an annoyed IT person blocking your IP address.</li>
 </ul></li>
 </ul>
 </section>
