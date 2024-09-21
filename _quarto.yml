@@ -5,6 +5,8 @@ project:
 website:
   site-url: https://jaykulkarni.github.io/
   title: "Jay Kulkarni"
+  google-analytics:
+    tracking-id: "G-NP0W4XHLFG"
   navbar:
     left:
       - href: index.qmd
