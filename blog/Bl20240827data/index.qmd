@@ -1,11 +1,10 @@
 ---
-title: "e-Papyrus to Spreadsheet"
-subtitle: "A guide to webscraping using python + selenium"
+title: "A guide to webscraping using python + selenium"
 author: "Jay Kulkarni"
-date: "2024-09-21"
+date: "2024-09-22"
 categories: [Data, Python, Selenium, Webscraping]
 description: "I collate the most useful webscraping tricks from my workflow and present it as a beginner's guide."
-draft: true
+draft: false
 #bibliography: references.bib
 #nocite:
 #  -@ghosh2008
