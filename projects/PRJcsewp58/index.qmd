@@ -12,7 +12,38 @@ image: preview.png
 
 Studies based on the Consumer Pyramids Household Survey (CPHS) in India have shown that the impact of the Covid-19 lockdown on household incomes was progressive in nature-- richer households suffered more. But several media reports as well as purposive surveys carried out during the pandemic suggest that the poor suffered more than the rich. We use nationally representative panel data for urban India from the official Periodic Labour Force Survey (PLFS) to show that households that were relatively richer prior to the start of the pandemic suffered relatively less during the lockdown compared to households that were poorer. That is, the shock was regressive in nature. We also confirm that, as per CPHS, richer households did indeed experience higher drops in income than poorer ones. But we show that this progressivity is much less than what prevailed prior to the pandemic. Thus the pandemic either disrupted ongoing progressive income changes or was outright regressive in its impacts.
 
-#### [Read Online](https://cdn.azimpremjiuniversity.edu.in/media/publications/cse-working-paper-series/Basole_etal_Covid_Regressive_Shocks_WP-2.pdf)
+```{=html}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clickable Button</title>
+    <style>
+        .read-button {
+            background-color: #CD5C5C;
+            border: none; /* Remove borders */
+            color: white; /* White text */
+            padding: 15px 32px; /* Some padding */
+            text-align: center; /* Center the text */
+            text-decoration: none; /* Remove underline */
+            display: inline-block; /* Get the button to display inline */
+            font-size: 16px; /* Set a font size */
+            margin: 4px 2px; /* Add some margin */
+            cursor: pointer; /* Pointer cursor on hover */
+            border-radius: 5px; /* Rounded corners */
+        }
+        
+        .read-button:hover {
+            background-color: #B22222; /* Darker shade on hover */
+        }
+    </style>
+</head>
+<body>
+
+<a href="https://cdn.azimpremjiuniversity.edu.in/media/publications/cse-working-paper-series/Basole_etal_Covid_Regressive_Shocks_WP-2.pdf" class="read-button" target="_blank">READ ONLINE</a>
+
+</body>
+        
+```
 
 ### Authors
 
