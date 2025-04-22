@@ -14,7 +14,7 @@ website:
       - text: "About"
         href: about.qmd
       - text: "CV"
-        href: MISC/kulkarni-cv-nov2023.pdf
+        href: MISC/kulkarni-cv-apr2025.pdf
       - projects.qmd
       - blog.qmd
   page-footer: 

@@ -1,0 +1,49 @@
+---
+title: "Do Social Network Categories Affect Cognitive
+Functioning of the Elderly? Assessing Heterogeneities in SHARE."
+subtitle: "Postgraduate Thesis"
+author: 
+  - Jay Kulkarni
+date: "2025-04-05"
+categories: [Social Networks, Cognition, Ageing, Europe]
+description: "Manuscript of my postgraduate thesis and the slides used for my thesis defence."
+image: verbal-cluster-region-margins.png
+---
+
+### Abstract
+
+Previous studies have identified that mitigating social isolation among the elderly is a way to strengthen their cognitive function and reduce age-related degenerative diseases like dementia. With widespread ageing in Europe, it is important to understand the association between social networks of the elderly and their cognitive function. This thesis uses the ‘Survey of Health, Ageing and Retirement in Europe’ (SHARE), a large cross-sectional data with 70,000 participants across Europe and West Asia to examine this association. A novel clustering method is used to classify respondents into social network categories based on network size, geographical and emotional proximity, relationship type, and contact frequency. Both subjective (self-reported memory) and objective (verbal fluency) measures of cognitive function are analyzed. In agreement with the literature, larger network size is associated with better cognition. While network size remains important, richer characterization of the network using clustering helps us better gauge the quality of people’s networks, and the clusters show greater magnitudes of association with cognitive function. Furthermore, considerable heterogeneity is observed in verbal fluency across the four regions, with the North and West generally showing better cognitive performance compared to the East and South. This suggests that regional histories and socio-cultural factors play a significant role in cognitive function, even when the quality of social network is the same. The thesis highlights the importance of considering the quality of social networks and the influence of regional contexts in understanding cognition in Europe.
+
+### Thesis
+
+```{=html}
+<!DOCTYPE html>
+<html>
+  
+  </head>
+  <body>
+    
+    <object data="doc-pg-thesis.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="doc-pg-thesis.pdf">Download</a> instead.</p>
+    </object>
+  </body>
+</html>
+```
+### Presentation
+
+```{=html}
+<!DOCTYPE html>
+<html>
+  
+  </head>
+  <body>
+    
+    <object data="slides-pg-thesis.pdf" type="application/pdf" width="100%" height="400px">
+      <p>Unable to display PDF file. <a href="slides-pg-thesis.pdf">Download</a> instead.</p>
+    </object>
+  </body>
+</html>
+```
+### Media
+
+![Graduated!](graduated.jpg){fig-align="left" width="30%"}
