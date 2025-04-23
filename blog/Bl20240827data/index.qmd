@@ -73,8 +73,7 @@ The output should look like this:
 You just scraped one element from a webpage and stored it as desired. This is the most basic use of the webscraping technique. Note, however, that the xpath copied is specific to the particular page. If you replace the url with [this url](https://ted.europa.eu/en/notice/-/detail/732648-2022), your code will scrape something else instead of the 'Title'. So if you have a list of 100 urls corresponding to a 100 contracts from the website in the example, this code will certainly break. The way forward is to write generic xpaths in your code.
 
 #### Generic XPATHS
-
-[This YouTube video](https://www.youtube.com/watch?v=NhG__BL8zFo) is a must watch, to master writing generic xpaths. I found the following to be the most useful ([Cheatsheet](https://jayvilaskulkarni.github.io/blog/Bl20240827data/xpathcheatsheet.html)):
+<a href="https://www.youtube.com/watch?v=NhG__BL8zFo" target="_blank" rel="noopener noreferrer">This Youtube video</a> is a must watch, to master writing generic xpaths. I found the following to be the most useful <a href="https://jayvilaskulkarni.github.io/blog/Bl20240827data/xpathcheatsheet" target="_blank" rel="noopener noreferrer">(Cheatsheet):</a>
 
 -   understanding xpath syntax (tag, attribute)
 -   using multiple logical conditions (and, or)
