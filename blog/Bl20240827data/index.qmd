@@ -74,7 +74,7 @@ You just scraped one element from a webpage and stored it as desired. This is th
 
 #### Generic XPATHS
 
-[This YouTube video](https://www.youtube.com/watch?v=NhG__BL8zFo) is a must watch, to master writing generic xpaths. I found the following to be the most useful:
+[This YouTube video](https://www.youtube.com/watch?v=NhG__BL8zFo) is a must watch, to master writing generic xpaths. I found the following to be the most useful ([Cheatsheet](https://jayvilaskulkarni.github.io/blog/Bl20240827data/xpathcheatsheet.html)):
 
 -   understanding xpath syntax (tag, attribute)
 -   using multiple logical conditions (and, or)

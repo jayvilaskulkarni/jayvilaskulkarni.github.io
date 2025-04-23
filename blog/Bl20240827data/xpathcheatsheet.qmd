@@ -1,0 +1,23 @@
+---
+title: "XPath Cheatsheet"
+author: "Jay Kulkarni"
+date: "2024-09-22"
+format: html
+draft: true
+---
+
+| Description                                                  | Path                                          |
+|-----------------------------------|-------------------------------------|
+| Use star when tag (e.g. span; p) is unknown                  | //\*[@id='something']                         |
+| Two Conditions (AND)                                         | //\*[@attribute1='foo' and @attribute2='bar'] |
+| Two Conditions (OR)                                          | //\*[@attribute1='foo' or @attribute2='bar']  |
+| From child to parent                                         | //\*\[text()='Contract No'\]/../..            |
+| From parent to child                                         | //\*[@id='foo']//input                        |
+| If one xpath gives multiple outcomes and we want the 3rd one | (//label[@id='foo'])\[3\]                     |
+| Contains function                                            | //p\[contains(text(),'something')\]           |
+|Starts with function|//p[starts-with(text(),'something')]|
+|Table position (4th row)|//table[@id='table1']//tr[position()=4]|
+|Table position (n-1 row)|//table[@id='table1']//tr[last()-1]|
+|Count (find table with 6 tr elements)|//table[count(.//tr)=6]|
+|Ignore spaces (remove preceding and trailing space)|//p[normalize-space(text())='Tommy']|
+|Ignore cases using translate (both cAb and cab will be found)|//p[translate(text(), 'ABCD', 'abcd')='cab']|

@@ -1,19 +1,19 @@
 [
   {
-    "listing": "/blog.html",
-    "items": [
-      "/blog/Bl20241220books/index.html",
-      "/blog/Bl20240827data/index.html",
-      "/blog/Bl20230930diary/index.html"
-    ]
-  },
-  {
     "listing": "/projects.html",
     "items": [
       "/projects/PRJpgthesis/index.html",
       "/projects/PRJcsewp58/index.html",
       "/projects/PRJcovidinequality/index.html",
       "/projects/PRJugthesis/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/Bl20241220books/index.html",
+      "/blog/Bl20240827data/index.html",
+      "/blog/Bl20230930diary/index.html"
     ]
   }
 ]
