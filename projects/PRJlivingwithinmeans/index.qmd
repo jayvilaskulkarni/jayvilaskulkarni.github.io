@@ -1,0 +1,49 @@
+---
+title: "Households that live within their means in India"
+author: 
+  - Jay Kulkarni
+date: "2025-07-11"
+categories: [Household Finance, India]
+description: "Article in 'The Leap Blog' with Susan Thomas"
+image: preview.png
+---
+
+### Excerpt
+
+The economic well-being of households is primarily about their ability to spend on consumption. Household consumption is dominated by what the income of the household is, but not limited by it. Households that spend less than they earn, build their savings. Households that spend more than they earn either borrow or draw down on earlier savings. There is a big difference in the life-cycle possibilities between households that manage to save versus those that do not. In this article, we analyse a panel dataset of Indian households to understand what differentiates households who live within, or beyond, their means...
+
+```{=html}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clickable Button</title>
+    <style>
+        .read-button {
+            background-color: #CD5C5C;
+            border: none; /* Remove borders */
+            color: white; /* White text */
+            padding: 15px 32px; /* Some padding */
+            text-align: center; /* Center the text */
+            text-decoration: none; /* Remove underline */
+            display: inline-block; /* Get the button to display inline */
+            font-size: 16px; /* Set a font size */
+            margin: 4px 2px; /* Add some margin */
+            cursor: pointer; /* Pointer cursor on hover */
+            border-radius: 5px; /* Rounded corners */
+        }
+        
+        .read-button:hover {
+            background-color: #B22222; /* Darker shade on hover */
+        }
+    </style>
+</head>
+<body>
+
+<a href="https://blog.theleapjournal.org/2025/07/households-that-live-within-their-means.html" class="read-button" target="_blank">Go to The Leap Blog</a>
+
+</body>
+        
+```
+### Authors
+
+Jay Kulkarni and [Susan Thomas](https://xkdr.org/author/susan-thomas)
