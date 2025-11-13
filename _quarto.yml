@@ -18,7 +18,7 @@ website:
       - projects.qmd
       - blog.qmd
   page-footer: 
-    left: Copyright 2023, Jay Kulkarni
+    left: Copyright 2025, Jay Kulkarni
               
 format:
   html:
