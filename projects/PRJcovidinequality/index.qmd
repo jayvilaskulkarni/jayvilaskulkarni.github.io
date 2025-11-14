@@ -1,9 +1,11 @@
 ---
 title: "Did Inequality Fall or Rise During the COVID-19 Lockdown?"
 author: 
+  - Amit Basole
   - Jay Kulkarni
+  - Anand Shrivastava
 date: "2023-01-13"
-categories: [Inequality, Income, COVID-19, India, Data Visualization]
+categories: [Income Distribution, COVID-19, India]
 description: "Poster presentation of the project where I contributed as a research assistant (Centre for Sustainable Employment, Bengaluru)."
 image: preview.png
 ---

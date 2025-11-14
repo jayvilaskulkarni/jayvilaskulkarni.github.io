@@ -2,6 +2,7 @@
 title: "Households that live within their means in India"
 author: 
   - Jay Kulkarni
+  - Susan Thomas
 date: "2025-07-11"
 categories: [Household Finance, India]
 description: "Article in 'The Leap Blog' with Susan Thomas"

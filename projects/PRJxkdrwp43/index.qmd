@@ -1,0 +1,55 @@
+---
+title: "Information Extraction From Fiscal Documents Using LLMs"
+author: 
+  - Vikram Aggarwal
+  - Jay Kulkarni
+  - Aakriti Narang
+  - Aditi Mascarenhas
+  - Siddarth Raman
+  - Ajay Shah
+  - Susan Thomas
+date: "2025-11-13"
+categories: [Public Finance, AI, India]
+description: "XKDR Working Paper with Vikram Aggarwal, Aditi Mascarenhas, Aakriti Narang, Siddarth Raman, Ajay Shah, and Susan Thomas"
+image: preview.png
+---
+
+### Abstract
+
+Large Language Models (LLMs) have demonstrated remarkable capabilities in text comprehension, but their ability to process complex, hierarchical tabular data remains underexplored. We present a novel approach to extracting structured data from multi-page government fiscal documents using LLM-based techniques. Applied to large annual fiscal documents from the State of Karnataka in India, our method achieves high accuracy through a multi-stage pipeline that leverages domain knowledge, sequential context, and algorithmic validation. Traditional OCR methods work poorly with errors that are hard to detect. The inherent structure of fiscal tables, with totals at each level of the hierarchy, allows for robust internal validation of the extracted data. We use these hierarchical relationships to create multi-level validation checks. We demonstrate that LLMs can read tables and also process document-specific structural hierarchies, offering a scalable process for converting PDF-based fiscal disclosures into research-ready databases. Our implementation shows promise for broader applications across developing country contexts.
+
+```{=html}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clickable Button</title>
+    <style>
+        .read-button {
+            background-color: #CD5C5C;
+            border: none; /* Remove borders */
+            color: white; /* White text */
+            padding: 15px 32px; /* Some padding */
+            text-align: center; /* Center the text */
+            text-decoration: none; /* Remove underline */
+            display: inline-block; /* Get the button to display inline */
+            font-size: 16px; /* Set a font size */
+            margin: 4px 2px; /* Add some margin */
+            cursor: pointer; /* Pointer cursor on hover */
+            border-radius: 5px; /* Rounded corners */
+        }
+        
+        .read-button:hover {
+            background-color: #B22222; /* Darker shade on hover */
+        }
+    </style>
+</head>
+<body>
+
+<a href="https://ideas.repec.org/p/anf/wpaper/43.html#download" class="read-button" target="_blank">ACCESS PAPER</a>
+
+</body>
+        
+```
+### Authors
+
+[Vikram Aggarwal](https://www.eggwall.com/p/vikram.html), Jay Kulkarni, Aakriti Narang, [Aditi Mascarenhas](https://www.xkdr.org/author/aditi-mascarenhas), [Siddarth Raman](http://xkdr.org/author/siddarth-raman), [Ajay Shah](https://www.xkdr.org/author/ajay-shah), and [Susan Thomas](https://www.xkdr.org/author/susan-thomas)
