@@ -45,7 +45,8 @@ Large Language Models (LLMs) have demonstrated remarkable capabilities in text c
 </head>
 <body>
 
-<a href="https://ideas.repec.org/p/anf/wpaper/43.html#download" class="read-button" target="_blank">ACCESS PAPER</a>
+<a href="https://arxiv.org/abs/2511.10659" class="read-button" target="_blank">ACCESS ON ARXIV</a>
+<a href="https://ideas.repec.org/p/anf/wpaper/43.html#download" class="read-button" target="_blank">ACCESS ON REPEC</a>
 
 </body>
         
