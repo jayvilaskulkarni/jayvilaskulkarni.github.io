@@ -6,13 +6,11 @@ author:
   - Anand Shrivastava
 date: "2023-01-13"
 categories: [Income Distribution, COVID-19, India]
-description: "Poster presentation of the project where I contributed as a research assistant (Centre for Sustainable Employment, Bengaluru)."
+description: "Poster presentation at Annual Research Conclave 2023, Azim Premji University"
 image: preview.png
 ---
 
-This work was presented at the *Annual Research Conclave (2023)* at Azim Premji University, Bengaluru. As a research assistant, I helped with documentation, data visualization, and with executing the regression analysis for the project.[^1]
-
-[^1]: This is unpublished work, only uploaded here to give the reader a better sense of my experience as a research assistant during this stint.
+This work was presented at the *Annual Research Conclave (2023)* at Azim Premji University, Bengaluru.
 
 ```{=html}
 <!DOCTYPE html>

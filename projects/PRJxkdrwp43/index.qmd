@@ -10,7 +10,7 @@ author:
   - Susan Thomas
 date: "2025-11-13"
 categories: [Public Finance, AI, India]
-description: "XKDR Working Paper with Vikram Aggarwal, Aditi Mascarenhas, Aakriti Narang, Siddarth Raman, Ajay Shah, and Susan Thomas"
+description: "XKDR Working Paper"
 image: preview.png
 ---
 
@@ -45,8 +45,8 @@ Large Language Models (LLMs) have demonstrated remarkable capabilities in text c
 </head>
 <body>
 
-<a href="https://arxiv.org/abs/2511.10659" class="read-button" target="_blank">ACCESS ON ARXIV</a>
-<a href="https://ideas.repec.org/p/anf/wpaper/43.html#download" class="read-button" target="_blank">ACCESS ON REPEC</a>
+<a href="https://arxiv.org/abs/2511.10659" class="read-button" target="_blank">Access paper on ARXIV</a>
+<a href="https://ideas.repec.org/p/anf/wpaper/43.html#download" class="read-button" target="_blank">Access paper on REPEC</a>
 
 </body>
         
@@ -54,3 +54,57 @@ Large Language Models (LLMs) have demonstrated remarkable capabilities in text c
 ### Authors
 
 [Vikram Aggarwal](https://www.eggwall.com/p/vikram.html), Jay Kulkarni, Aakriti Narang, [Aditi Mascarenhas](https://www.xkdr.org/author/aditi-mascarenhas), [Siddarth Raman](http://xkdr.org/author/siddarth-raman), [Ajay Shah](https://www.xkdr.org/author/ajay-shah), and [Susan Thomas](https://www.xkdr.org/author/susan-thomas)
+
+### Poster Presentation
+Presented at ACM ICAIF 2025 in November 2025.
+
+```{=html}
+<!DOCTYPE html>
+<html>
+  
+  </head>
+  <body>
+    
+    <object data="poster-icaif25-aggarwaletal.pdf" type="application/pdf" width="100%" height="500px">
+      <p>Unable to display PDF file. <a href="poster-icaif25-aggarwaletal.pdf">Download</a> instead.</p>
+    </object>
+  </body>
+</html>
+```
+
+### Replication
+
+A replication package is maintained on the Github repository 'LLM_table2db' with input documents, source code, and prompts.
+
+```{=html}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clickable Button</title>
+    <style>
+        .read-button {
+            background-color: #CD5C5C;
+            border: none; /* Remove borders */
+            color: white; /* White text */
+            padding: 15px 32px; /* Some padding */
+            text-align: center; /* Center the text */
+            text-decoration: none; /* Remove underline */
+            display: inline-block; /* Get the button to display inline */
+            font-size: 16px; /* Set a font size */
+            margin: 4px 2px; /* Add some margin */
+            cursor: pointer; /* Pointer cursor on hover */
+            border-radius: 5px; /* Rounded corners */
+        }
+        
+        .read-button:hover {
+            background-color: #B22222; /* Darker shade on hover */
+        }
+    </style>
+</head>
+<body>
+
+<a href="https://github.com/xKDR/LLM_table2db/tree/main" class="read-button" target="_blank">Github: LLM_table2db</a>
+
+</body>
+        
+```

@@ -7,7 +7,7 @@ author:
   - Akshit Arora
 date: "2024-08-22"
 categories: [Income Distribution, COVID-19, India]
-description: "CSE Working Paper with Amit Basole, Anand Shrivastava and Akshit Arora."
+description: "CSE Working Paper"
 image: preview.png
 ---
 
