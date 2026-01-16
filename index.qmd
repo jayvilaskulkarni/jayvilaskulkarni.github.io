@@ -9,12 +9,25 @@ about:
     - icon: mailbox
       text: jay.kulkarni@studbocconi.it
       href: mailto:jay.kulkarni@studbocconi.it
-    - icon: twitter  
-      text: jayvkulkarni 
+    - icon: twitter-x  
+      #text: jayvkulkarni 
       href: https://twitter.com/jayvkulkarni
+      target: _blank
     - icon: linkedin
-      text: jaykulkarni
+      #text: jaykulkarni
       href: https://www.linkedin.com/in/jay-kulkarni-econ/
+      target: _blank
+    - icon: github
+      #text: jayvilaskulkarni
+      href: https://github.com/jayvilaskulkarni
+      target: _blank
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=oBiorRsAAAAJ&hl=en
+      target: _blank
+    - text: "{{< ai ideas-repec >}}"
+      href: https://ideas.repec.org/f/pku791.html
+      target: _blank
+      
 ---
 
 ## Brief
