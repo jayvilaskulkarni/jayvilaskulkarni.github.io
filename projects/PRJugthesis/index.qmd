@@ -6,11 +6,13 @@ author:
   - Jay Kulkarni
 date: "2022-05-07"
 categories: [Household Behaviour, Welfare, COVID-19,  India]
-description: "This thesis uses the CMIE-CPHS to capture the welfare effects of the pandemic on consumption expenditure. It finds that poverty spiked around lockdown one, but reverted to its pre-pandemic levels in the months that followed. It contributes to the literature by establishing that the drop in discretionary spending, that is dominated by richer quantiles drove the higher drop in overall MPCE for the rich."
-image: previewmerged.png
+description: "Manuscript of my undergraduate thesis and the slides used for my thesis defence."
+image: preview2.png
 ---
 
-*You can access my undergraduate thesis manuscript and my presentation to defend my thesis on this page.*
+### Abstract
+
+This thesis uses the CMIE-CPHS to capture the welfare effects of the COVID-19 pandemic on consumption expenditure. It finds that poverty spiked around lockdown one, but reverted to its pre-pandemic levels in the months that followed. It contributes to the literature by establishing that the drop in discretionary spending, that is dominated by richer quantiles drove the higher drop in overall MPCE for the rich.
 
 ### Thesis
 
@@ -27,6 +29,7 @@ image: previewmerged.png
   </body>
 </html>
 ```
+
 ### Presentation
 
 ```{=html}

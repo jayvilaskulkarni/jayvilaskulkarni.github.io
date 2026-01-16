@@ -27,7 +27,6 @@ about:
     - text: "{{< ai ideas-repec >}}"
       href: https://ideas.repec.org/f/pku791.html
       target: _blank
-      
 ---
 
 ## Brief
