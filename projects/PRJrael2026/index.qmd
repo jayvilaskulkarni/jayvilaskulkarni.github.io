@@ -1,0 +1,57 @@
+---
+title: "Regressive income shocks during India’s Covid-19 lockdown: evidence from two surveys"
+author: 
+  - Amit Basole
+  - Anand Shrivastava
+  - Jay Kulkarni
+  - Akshit Arora
+date: "2026-06-10"
+categories: [COVID-19, Income Distribution, India]
+description: "Paper in 'Applied Economics Letters'"
+image: preview.png
+---
+
+### Abstract
+
+Studies based on the Consumer Pyramids Household Survey (CPHS) in India have shown that the impact of the nationwide lockdown in 2020 on household incomes was progressive in nature – richer households suffered more. But several media reports as well as purposive surveys carried out during the pandemic suggest that the poor suffered more than the rich. In this paper, we show that the conclusion of progressivity is sensitive to the base period used for comparisons. Previous studies have used the Oct–Dec 2019 quarter as the base for comparison to find that the lockdown was progressive in its impact. We show that ongoing changes in the income distribution in urban India between Oct–Dec 2019 and Jan–Mar 2020 quarters are progressive and hence confound the subsequent regressivity. We find that, if compared to the quarter immediately preceding it, the lockdown was regressive in nature. We also verify this conclusion using another survey, the Periodic Labour Force Survey (PLFS). Our findings have implications for understanding the distributional impact of the Covid-19 lockdown in India.
+
+```{=html}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clickable Button</title>
+    <style>
+        .read-button {
+            background-color: #CD5C5C;
+            border: none; /* Remove borders */
+            color: white; /* White text */
+            padding: 15px 32px; /* Some padding */
+            text-align: center; /* Center the text */
+            text-decoration: none; /* Remove underline */
+            display: inline-block; /* Get the button to display inline */
+            font-size: 16px; /* Set a font size */
+            margin: 4px 2px; /* Add some margin */
+            cursor: pointer; /* Pointer cursor on hover */
+            border-radius: 5px; /* Rounded corners */
+        }
+        
+        .read-button:hover {
+            background-color: #B22222; /* Darker shade on hover */
+        }
+    </style>
+</head>
+<body>
+
+<a href="https://doi.org/10.1080/13504851.2026.2685216" class="read-button" target="_blank">Access Publication</a>
+
+</body>
+        
+```
+
+### Authors
+
+Amit Basole, Anand Shrivastava, Jay Kulkarni, and Akshit Arora
+
+### Suggested Citation
+
+Basole, A., Shrivastava, A., Kulkarni, J., & Arora, A. (2026). Regressive income shocks during India’s Covid-19 lockdown: evidence from two surveys. *Applied Economics Letters*, 1–5. <https://doi.org/10.1080/13504851.2026.2685216>
