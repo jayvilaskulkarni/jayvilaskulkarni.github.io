@@ -24,9 +24,6 @@ about:
     - text: "{{< ai google-scholar >}}"
       href: https://scholar.google.com/citations?user=oBiorRsAAAAJ&hl=en
       target: _blank
-    - text: "{{< ai ideas-repec >}}"
-      href: https://ideas.repec.org/f/pku791.html
-      target: _blank
 ---
 
 ## Brief
